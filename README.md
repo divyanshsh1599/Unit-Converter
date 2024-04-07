@@ -1,29 +1,28 @@
 #Unit Converter App
-This Kotlin application allows users to convert between various units of length, including meters, centimeters, feet, and millimeters. It provides a simple and intuitive interface for seamless conversion.
 
-Features
+This Kotlin application allows users to convert between various units of length, including meters, centimeters, feet, and millimeters. 
+It provides a simple and intuitive interface for seamless conversion.
+
+#Features
 Converts between meters, centimeters, feet, and millimeters.
 Easy-to-use interface.
 Fast and accurate conversion.
 
-Usage
-Launch the application on your device.
+#Usage
+1.Launch the application on your device.
+2.Choose the unit you want to convert from and to.
+3.Enter the value you want to convert.
+4.The converted value will be displayed instantly.
+5.Repeat the process for any additional conversions.
 
-Choose the unit you want to convert from and to.
+#Contributing
+Contributions are welcome! If you find any bugs or want to improve the application,
+feel free to open an issue or submit a pull request.
 
-Enter the value you want to convert.
-
-The converted value will be displayed instantly.
-
-Repeat the process for any additional conversions.
-
-Contributing
-Contributions are welcome! If you find any bugs or want to improve the application, feel free to open an issue or submit a pull request.
-
-Contact
+#Contact
 For any inquiries or suggestions, please contact divyanshsharma10a@gmail.com 
 
-Thank you for using Unit Converter App! 🚀
+#Thank you for using Unit Converter App! 🚀
 
 
 
